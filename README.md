@@ -21,3 +21,5 @@ For local testing, serve the repository directory with `python -m http.server 80
 ## Next iteration
 
 Curve handles instead of polygon corners, separate top/bottom rim controls, wrap angle, pantoscopic tilt, hinge dimensions, saved presets, export to Blender via a design JSON importer, and a measured print calibration card.
+
+https://eliandino.github.io/framelab-sunglasses-web/
